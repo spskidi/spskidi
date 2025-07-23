@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, I'm Surya!<br>//Like to make random shitty projects that has no use.<br>Creating bugs for others to debug...1<br>return 0;
+Hii, I'm Surya!
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ Hii, I'm Surya!<br>//Like to make random shitty projects that has no use.<br>Cre
 ![](https://nirzak-streak-stats.vercel.app/?user=spskidi&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spskidi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=spskidi&limit=5&theme=dark&combine_all_yearly_contributions=true)
